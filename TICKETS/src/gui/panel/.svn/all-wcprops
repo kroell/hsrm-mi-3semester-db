@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/2011db/2011db07/!svn/ver/184/TICKETS/src/gui/panel
+END
+ShowViews.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/85/TICKETS/src/gui/panel/ShowViews.form
+END
+AddMovie.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/198/TICKETS/src/gui/panel/AddMovie.java
+END
+UpdateClientProfil.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateClientProfil.form
+END
+BookingSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2011db/2011db07/!svn/ver/212/TICKETS/src/gui/panel/BookingSummary.java
+END
+AddViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/211/TICKETS/src/gui/panel/AddViews.java
+END
+AddEmployee.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/194/TICKETS/src/gui/panel/AddEmployee.form
+END
+ClientDeleted.form
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2011db/2011db07/!svn/ver/198/TICKETS/src/gui/panel/ClientDeleted.form
+END
+ShowEmployee.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/ShowEmployee.java
+END
+AddClient.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/186/TICKETS/src/gui/panel/AddClient.form
+END
+ShowClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2011db/2011db07/!svn/ver/202/TICKETS/src/gui/panel/ShowClient.java
+END
+LoggedIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/200/TICKETS/src/gui/panel/LoggedIn.java
+END
+UpdateMovie.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/151/TICKETS/src/gui/panel/UpdateMovie.form
+END
+ClientProfil.form
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/137/TICKETS/src/gui/panel/ClientProfil.form
+END
+UpdateViews.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/166/TICKETS/src/gui/panel/UpdateViews.form
+END
+NewRegister.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/186/TICKETS/src/gui/panel/NewRegister.form
+END
+Statistics.form
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2011db/2011db07/!svn/ver/138/TICKETS/src/gui/panel/Statistics.form
+END
+WelcomePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/180/TICKETS/src/gui/panel/WelcomePanel.form
+END
+MovieDetail.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/110/TICKETS/src/gui/panel/MovieDetail.form
+END
+ClientLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/198/TICKETS/src/gui/panel/ClientLogin.java
+END
+ShowReviews.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/214/TICKETS/src/gui/panel/ShowReviews.java
+END
+ShowBooking.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/201/TICKETS/src/gui/panel/ShowBooking.java
+END
+BookingDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/197/TICKETS/src/gui/panel/BookingDone.java
+END
+AddReview.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/106/TICKETS/src/gui/panel/AddReview.form
+END
+UpdateEmployee.form
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateEmployee.form
+END
+ShowMovie.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/ShowMovie.java
+END
+UpdateClient.form
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateClient.form
+END
+ShowViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/208/TICKETS/src/gui/panel/ShowViews.java
+END
+UpdateClientProfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateClientProfil.java
+END
+AddEmployee.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/194/TICKETS/src/gui/panel/AddEmployee.java
+END
+ClientDeleted.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2011db/2011db07/!svn/ver/198/TICKETS/src/gui/panel/ClientDeleted.java
+END
+AddMovie.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/194/TICKETS/src/gui/panel/AddMovie.form
+END
+AddClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/194/TICKETS/src/gui/panel/AddClient.java
+END
+BookingSummary.form
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2011db/2011db07/!svn/ver/129/TICKETS/src/gui/panel/BookingSummary.form
+END
+AddViews.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/209/TICKETS/src/gui/panel/AddViews.form
+END
+ShowEmployee.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/93/TICKETS/src/gui/panel/ShowEmployee.form
+END
+UpdateMovie.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateMovie.java
+END
+ClientProfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/208/TICKETS/src/gui/panel/ClientProfil.java
+END
+ShowClient.form
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/84/TICKETS/src/gui/panel/ShowClient.form
+END
+UpdateViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateViews.java
+END
+LoggedIn.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/113/TICKETS/src/gui/panel/LoggedIn.form
+END
+NewRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/201/TICKETS/src/gui/panel/NewRegister.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2011db/2011db07/!svn/ver/211/TICKETS/src/gui/panel/Statistics.java
+END
+WelcomePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/WelcomePanel.java
+END
+MovieDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/213/TICKETS/src/gui/panel/MovieDetail.java
+END
+ClientLogin.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/198/TICKETS/src/gui/panel/ClientLogin.form
+END
+ShowReviews.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/105/TICKETS/src/gui/panel/ShowReviews.form
+END
+ShowBooking.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/187/TICKETS/src/gui/panel/ShowBooking.form
+END
+AddReview.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2011db/2011db07/!svn/ver/195/TICKETS/src/gui/panel/AddReview.java
+END
+BookingDone.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2011db/2011db07/!svn/ver/197/TICKETS/src/gui/panel/BookingDone.form
+END
+UpdateEmployee.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateEmployee.java
+END
+UpdateClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2011db/2011db07/!svn/ver/203/TICKETS/src/gui/panel/UpdateClient.java
+END
+ShowMovie.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2011db/2011db07/!svn/ver/84/TICKETS/src/gui/panel/ShowMovie.form
+END

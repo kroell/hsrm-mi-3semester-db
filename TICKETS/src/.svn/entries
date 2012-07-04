@@ -1,0 +1,67 @@
+10
+
+dir
+184
+https://scm.mi.hs-rm.de/svn/2011db/2011db07/TICKETS/src
+https://scm.mi.hs-rm.de/svn/2011db/2011db07
+
+
+
+2012-02-27T14:42:15.120059Z
+184
+mschu002
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+acf2d7cc-5c0f-43a7-b27b-fac36797cf7b
+
+combobomodel
+dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+controller
+dir
+
+data
+dir
+
+database
+dir
+
+gui
+dir
+
+tablemodel
+dir
+
